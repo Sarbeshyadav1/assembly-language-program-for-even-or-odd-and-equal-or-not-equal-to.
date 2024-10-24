@@ -1,0 +1,1 @@
+# assembly-language-program-for-even-or-odd-and-equal-or-not-equal-to.
